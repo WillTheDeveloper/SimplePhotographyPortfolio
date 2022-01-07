@@ -2,9 +2,26 @@ body, html {
     height: 100%;
 }
 
-.parallax {
+.parallax1 {
     /* The image used */
     background-image: url('/images/_MG_1791.jpg');
+
+    /* Full height */
+    height: 100%;
+    width: 100%;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    filter: grayscale(100%);
+}
+
+.parallax2 {
+    /* The image used */
+    background-image: url('/images/_MG_1731.jpg');
 
     /* Full height */
     height: 100%;

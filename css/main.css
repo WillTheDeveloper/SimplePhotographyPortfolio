@@ -16,6 +16,8 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
 
+    pointer-events: none;
+
     margin: 0;
 
     filter: grayscale(100%);
@@ -34,6 +36,8 @@ body, html {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+
+    pointer-events: none;
 
     margin: 0;
 

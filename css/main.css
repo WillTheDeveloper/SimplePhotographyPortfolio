@@ -3,9 +3,6 @@ body, html {
 }
 
 .parallax1 {
-    /* The image used */
-    background-image: url('/images/_MG_1791.jpg');
-
     /* Full height */
     height: 70%;
     width: 100%;
@@ -24,9 +21,6 @@ body, html {
 }
 
 .parallax2 {
-    /* The image used */
-    background-image: url('/images/_MG_1731.jpg');
-
     /* Full height */
     height: 100%;
     width: 100%;
